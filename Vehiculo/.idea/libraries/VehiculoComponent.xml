@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="VehiculoComponent">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../VehiculoComponent/out/artifacts/VehiculoComponent_jar/VehiculoComponent.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
